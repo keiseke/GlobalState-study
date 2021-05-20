@@ -1,2 +1,2 @@
-# GlobalState-study
+# AtomicDesign-study
 Created with CodeSandbox
